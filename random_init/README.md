@@ -10,17 +10,17 @@ We experimented with various initialization schemes and following were the resul
 
 **Normal, 3 latent variables**
 
-![Seed 1735192669](/random_init/images/normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1735192669.jpg){:height="50%" width="50%"}
+![Seed 1735192669](/random_init/images/normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1735192669.jpg)
 
-![Seed 2743082523](/random_init/images/normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-2743082523.jpg){:height="50%" width="50%"}
+![Seed 2743082523](/random_init/images/normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-2743082523.jpg)
 
 
 
 **Uniform, 3 latent variables**
 
-![Seed 3563121762](/random_init/images/uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-3563121762.jpg){:height="50%" width="50%"}
+![Seed 3563121762](/random_init/images/uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-3563121762.jpg)
 
-![Seed 533904542](/random_init/images/uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-533904542.jpg){:height="50%" width="50%"}
+![Seed 533904542](/random_init/images/uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-533904542.jpg)
 
 
 
@@ -28,7 +28,7 @@ We experimented with various initialization schemes and following were the resul
 
 ![Seed 1068043976](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1068043976.jpg){:height="50%" width="50%"}
 
-![Seed 1165003786](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1165003786.jpg){:height="50%" width="50%"}
+![Seed 1165003786](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1165003786.jpg)
 
 
 
@@ -36,7 +36,7 @@ We experimented with various initialization schemes and following were the resul
 
 ![Seed 176051726](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-176051726.jpg){:height="50%" width="50%"}
 
-![Seed 1165003786](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1051366071.jpg){:height="50%" width="50%"}
+![Seed 1165003786](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1051366071.jpg)
 
 
 
@@ -44,7 +44,7 @@ We experimented with various initialization schemes and following were the resul
 
 ![Seed 1540315861](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1540315861.jpg){:height="50%" width="50%"}
 
-![Seed 567902760](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-567902760.jpg){:height="50%" width="50%"}
+![Seed 567902760](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-567902760.jpg)
 
 
 
@@ -52,5 +52,5 @@ We experimented with various initialization schemes and following were the resul
 
 ![Seed 3780842880](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-3780842880.jpg){:height="50%" width="50%"}
 
-![Seed 2933311876](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-2933311876.jpg){:height="50%" width="50%"}
+![Seed 2933311876](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-2933311876.jpg)
 
