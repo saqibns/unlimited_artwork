@@ -18,7 +18,7 @@ class Hook:
 
     def close(self):
         self.hook.close()
-        
+
 
 def load_model(arch):
     # Load a pretrained torchvision model
