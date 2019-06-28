@@ -26,7 +26,7 @@ We experimented with various initialization schemes and following were the resul
 
 **Xavier Normal, 3 latent variables**
 
-![Seed 1068043976](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1068043976.jpg){:height="50%" width="50%"}
+![Seed 1068043976](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1068043976.jpg)
 
 ![Seed 1165003786](/random_init/images/xavier-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1165003786.jpg)
 
@@ -34,7 +34,7 @@ We experimented with various initialization schemes and following were the resul
 
 **Xavier Uniform, 3 latent variables**
 
-![Seed 176051726](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-176051726.jpg){:height="50%" width="50%"}
+![Seed 176051726](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-176051726.jpg)
 
 ![Seed 1165003786](/random_init/images/xavier-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1051366071.jpg)
 
@@ -42,7 +42,7 @@ We experimented with various initialization schemes and following were the resul
 
 **Kaiming Normal, 3 latent variables**
 
-![Seed 1540315861](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1540315861.jpg){:height="50%" width="50%"}
+![Seed 1540315861](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-1540315861.jpg)
 
 ![Seed 567902760](/random_init/images/kaiming-normal-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-567902760.jpg)
 
@@ -50,7 +50,7 @@ We experimented with various initialization schemes and following were the resul
 
 **Kaiming Uniform, 3 latent variables**
 
-![Seed 3780842880](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-3780842880.jpg){:height="50%" width="50%"}
+![Seed 3780842880](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-3780842880.jpg)
 
 ![Seed 2933311876](/random_init/images/kaiming-uniform-init_6-dim-inp_100.0-scale_1.0-shift_activation-relu_9-hidden_seed-2933311876.jpg)
 
